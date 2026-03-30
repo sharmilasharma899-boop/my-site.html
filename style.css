@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+header {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background: #444;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff9800;
+}
+
+#hero {
+    background: url('https://images.unsplash.com/photo-1555396273-367ea4eb4db5') no-repeat center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 8px;
+    font-size: 18px;
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
